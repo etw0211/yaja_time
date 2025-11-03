@@ -2,5 +2,5 @@
 
 `npm install`
 
-##실행
-npm run dev
+실행
+`npm run dev`
